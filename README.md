@@ -1,0 +1,2 @@
+# pertama
+Belajar git
